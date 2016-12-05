@@ -1,0 +1,27 @@
+{
+  "name": "PhenX/CPdf",
+  "type": "library",
+  "description": "A PHP class to provide the basic functionality to create a pdf document without any requirement for additional modules.",
+  "homepage": "https://github.com/PhenX/CPdf",
+  "license": "Pulic Domain",
+  "authors": [
+    {
+      "name": "Fabien Ménager",
+      "email": "fabien.menager@gmail.com"
+    },
+    {
+      "name": "Brian Sweeney",
+      "email": "eclecticgeek@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-0" : {
+      "CPdf\\" : "src/"
+    }
+  },
+  "require": {
+    "php": ">=5.3.0",
+    "ext-gd": "*",
+    "ext-mbstring": "*"
+  }
+}
