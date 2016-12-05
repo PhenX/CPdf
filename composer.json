@@ -1,5 +1,5 @@
 {
-  "name": "PhenX/CPdf",
+  "name": "phenx/cpdf",
   "type": "library",
   "description": "A PHP class to provide the basic functionality to create a pdf document without any requirement for additional modules.",
   "homepage": "https://github.com/PhenX/CPdf",
